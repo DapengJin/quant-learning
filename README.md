@@ -15,9 +15,9 @@
 
 ```bash
 # 创建新环境
-conda create -n quant python=3.8
+conda create -n quant-learning python=3.8
 # 激活环境
-conda activate quant
+conda activate quant-learning
 # 安装依赖
 pip install -r requirements.txt
 ```
